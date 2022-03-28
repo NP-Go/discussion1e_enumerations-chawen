@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 const (
-	Weight = 44
-	Height = 165
-	Age    = 22
+	Weight = 60
+	Height = 160
+	Age    = 30
 )
 
 const (
