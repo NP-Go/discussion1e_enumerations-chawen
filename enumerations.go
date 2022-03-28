@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 const (
-	Weight = 60
+	Weight = 10
 	Height = 160
 	Age    = 30
 )
